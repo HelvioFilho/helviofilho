@@ -58,7 +58,7 @@
   <a href="mailto:heviosvf@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" >
   </a>
-  <a href="https://linkedin.com/in/helvio-filho" target="_blank">
+  <a href="https://www.linkedin.com/in/h%C3%A9lvio-filho-506467232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
   <a href="https://expo.dev/@loihve" target="_blank">
