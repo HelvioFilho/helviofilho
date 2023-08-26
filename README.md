@@ -61,7 +61,7 @@
   <a href="https://www.linkedin.com/in/h%C3%A9lvio-filho-506467232" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077b5?style=for-the-badge&logo=linkedin&logoColor=white" >
   </a>
-  <a href="https://expo.dev/@loihve" target="_blank">
+  <a href="https://expo.dev/@hsvf" target="_blank">
     <img src="https://img.shields.io/badge/-expo-000000?style=for-the-badge&logo=expo&labelColor=FFFFFF&logoColor=000" >
   </a>
 </div>
