@@ -1,9 +1,13 @@
 <h1> Hélvio Filho </h1>
 <p> <img src="https://komarev.com/ghpvc/?username=helviofilho&color=yellow" alt="Profile views"></p>
 
-- 🔥 I work with programming for 7 years, I started in PHP developing systems and websites. I'm currently developing mobile apps in react native with the expo tool.
-- 🔭 I'm currently working as a freelancer
-- I'm constantly studying javascript and typescript
+🔥 Passionate about programming with extensive experience in software development. I started my journey in PHP, building systems and websites, and now specialize in mobile app development using React Native and the Expo framework.
+
+🔭 Currently working as a freelance Mobile Developer, delivering high-quality and tailored solutions for clients.
+
+🎯 I focus on creating modular, maintainable, and scalable applications. Skilled in integrating APIs, automating tests, and ensuring accessibility and performance.
+
+🌱 Continuously expanding my knowledge in JavaScript, TypeScript, and modern mobile development practices.
 <br>
 
 ## ⚙️ &nbsp;GitHub Analytics
